@@ -1,0 +1,21 @@
+- title: Cap Unit
+  url: https://ishadeed.com/article/css-cap-unit/
+  date: 2024-06-06
+  abstract: A look at how I solved a design problem with CSS cap unit.
+  author: Ahmad Shadeed
+  tags:
+    - CSS
+- title: Promises From The Ground Up
+  url: https://www.joshwcomeau.com/javascript/promises/
+  date: 2024-06-03
+  abstract: The “Promises” API is a surprisingly tricky part of modern JavaScript. Without the right context, it doesn’t make much sense at all! In this tutorial, you’ll build an intuition for how Promises work by getting a deeper understanding of JavaScript and its limitations.
+  author: Josh W Comeau
+  tags:
+    - JavaScript
+- title: A Call for Consensus on HTML Semantics
+  url: https://thinkdobecreate.com/articles/a-call-for-consensus-on-html-semantics/
+  date: 2024-01-20
+  abstract: HTML is supposed to be easy to learn. And sure, the basics are pretty clear, but how are we supposed to make the "right" choice in nuanced situations?
+  author: Stephanie Eckles
+  tags:
+    - HTML
